@@ -6,6 +6,6 @@ Hi everyone,
    
    
    ![cppcheck-action](https://github.com/99002784/Scientific-calcii/workflows/cppcheck-action/badge.svg)
- ![Codacy Badge](https://app.codacy.com/project/badge/Grade/3ac7e2a959a24fa4b5d1b9c1c886ff75)]
+ ![Codacy Badge](https://app.codacy.com/project/badge/Grade/3ac7e2a959a24fa4b5d1b9c1c886ff75)
    
   
